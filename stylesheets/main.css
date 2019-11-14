@@ -1,0 +1,15 @@
+h1 {
+  color: white;
+}
+
+header {
+  background-color: rgb(242, 0, 49);
+  color: white;
+  padding: 10px 100px 10px 20px;
+}
+
+nav {
+  background-color: rgb(59, 62, 66);
+  color: white;
+text-align: left;
+}
